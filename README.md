@@ -1,2 +1,2 @@
 # my-first-project
-this is mt github first repository
+this is my git first repository
