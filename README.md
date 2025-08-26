@@ -1,3 +1,3 @@
 # my-first-project
 this is my git first repository
-Authoer:divya salunke
+Authoer:divya salunk
